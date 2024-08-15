@@ -14,7 +14,7 @@ document.getElementById('contact-form').addEventListener('submit', function(even
         Email.send({
             Host: "smtp.elasticemail.com",
             Username: "mumvekerichidochashe@gmail.com",
-            Password: "BBEFF01DD4325A765FEC0AB6E16E43E3D40F",
+            Password: "5FD3347C42A0654C1C7D18A314CD15B237A9",
             To: 'mumvekerichidochashe@gmail.com', // Replace with the recipient's email address
             From: email,
             Subject: 'New message from your website',
